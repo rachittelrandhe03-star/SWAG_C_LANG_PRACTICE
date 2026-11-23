@@ -1,0 +1,1 @@
+// 6.	Solve the Tower of Hanoi problem and print the sequence of moves.
